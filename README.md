@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning MERN Stack.
 - 💭 Ask me about <b>Web Developer</b>.
-- 📌 Check out my personal portfolio: [Brijesh](https://brijesh-lakhani.netlify.app)
+- 📌 Check out my personal portfolio: [https://www.flaticon.com/free-icon/portfolio_686104](https://brijesh-lakhani.netlify.app)
 - 😂 Pronouns: He/Him.
 - 🏫 Student at Silveroak University.
 
